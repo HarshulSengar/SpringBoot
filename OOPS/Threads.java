@@ -22,7 +22,7 @@ class N extends Thread{
 
             //by using thread.sleep we are able to execute both classes parallely 
             //it is wrapped in try catch bcs tread.sleep gave interrupted exception
-            //without this also both functions execute parallely but 
+            //without this also both functions execute parallely but there are not one after another
             try{
                 Thread.sleep(5);
             }
