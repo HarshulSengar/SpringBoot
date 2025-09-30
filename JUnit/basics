@@ -1,0 +1,16 @@
+// basically testing like
+1.  platform : core of junit5
+used to run all the tescases
+
+api used for junit5 : jupiter api 
+
+junit5 does not prvide backward compatability
+
+vintage api : to run existing testacse . used for bakward cmpatability
+
+        
+
+
+
+
+

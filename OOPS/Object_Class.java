@@ -3,7 +3,7 @@
 
 public class Object_Class {
     public static void main(String[] args) {
-        Laptop obj = new Laptop();
+        Bike obj = new Bike();
         obj.model = "Hp";
         obj.price = 100000;
 
@@ -15,7 +15,7 @@ public class Object_Class {
     }
 }
 
-class Laptop{
+class Bike{
     String model;
     int price;
 

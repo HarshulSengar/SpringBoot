@@ -1,5 +1,5 @@
 
-package Core_Java;
+package core_java;
 
 import java.util.*;
 public class Collection {
